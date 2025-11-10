@@ -3,11 +3,11 @@
   <title>81194的个人博客</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://81194-fr.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://81194-fr.github.io/"/>
   <updated>2025-11-10T06:25:49.881Z</updated>
-  <id>http://example.com/</id>
+  <id>http://81194-fr.github.io/</id>
   
   <author>
     <name>81194</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>post</title>
-    <link href="http://example.com/2025/11/10/post/"/>
-    <id>http://example.com/2025/11/10/post/</id>
+    <link href="http://81194-fr.github.io/2025/11/10/post/"/>
+    <id>http://81194-fr.github.io/2025/11/10/post/</id>
     <published>2025-11-10T06:25:49.000Z</published>
     <updated>2025-11-10T06:25:49.881Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2025/11/09/hello-world/"/>
-    <id>http://example.com/2025/11/09/hello-world/</id>
+    <link href="http://81194-fr.github.io/2025/11/09/hello-world/"/>
+    <id>http://81194-fr.github.io/2025/11/09/hello-world/</id>
     <published>2025-11-09T14:24:12.753Z</published>
     <updated>2025-11-09T14:24:12.753Z</updated>
     
